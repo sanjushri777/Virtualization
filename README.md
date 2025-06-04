@@ -1,5 +1,4 @@
 
-You can re-enable in setting
 # Ex.3 Virtualization: Installation and Configuration of Oracle VirtualBox & Kali Linux, and Execution of Linux Commands
 ```
 REG NUMBER: 212223040187
